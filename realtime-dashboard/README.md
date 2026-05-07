@@ -23,7 +23,6 @@ npm install
    ```
    VITE_API_KEY=your_api_key_here
    ```
-   Get your key at: https://add.piotrkojalowicz.dev/ (password: `A@d-$01`)
 
 ## How to Run
 
